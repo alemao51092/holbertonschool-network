@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Listening ports:"
-netstat -tuln
+netstat -lp
